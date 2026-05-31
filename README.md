@@ -148,4 +148,4 @@ Ensure your changes are well tested
 
 Follow the existing coding style
 
-
+"This has been merged into Alertix"
